@@ -1,0 +1,24 @@
+/* Navbar.css */
+
+.navbar {
+  border: 2px solid  rgb(65,145,246);
+  border-radius: 10px;
+  background-color: #C7C8CC;
+  margin: 2rem 8rem;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  color: black;
+  margin-left: 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: rgb(65,145,246);
+  border-radius: 5px;
+  color:white;
+}
+

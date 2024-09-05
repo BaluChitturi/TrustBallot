@@ -1,0 +1,21 @@
+.View{
+    height:20rem;
+    border: 2px solid green;
+    margin: 4rem 14rem;
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+}
+.dash{
+    height: 18rem;
+    width: 18rem;
+    display: flex;
+    margin: 15px 2rem;
+}
+.content{
+    margin: 5rem;
+}
+.Verify{
+    background-color: rgb(65,145,246);
+    border-radius: 5px;
+}
